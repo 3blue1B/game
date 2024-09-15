@@ -10,7 +10,7 @@ using namespace std;
 void InitBoard(char** arr, int row, int col);
 void ShowBoard(char arr[ROW][COL], int row, int col);
 int IsWin(char arr[ROW][COL], int row, int col);
-void MoveBoard(char arr[ROW][COL], int row, int col);
+int MoveBoard(char arr[ROW][COL], int row, int col);
 void FindY(char arr[ROW][COL], int row, int col);
 
 void JudgeT(char arr[ROW][COL], int row, int col);
@@ -65,14 +65,14 @@ void InitBoard(char** arr, int row, int col)
 		*arr,
 		"\
 |--------|\
+|  | -   |\
 |  |     |\
-|  |   T |\
-| Y|   - |\
-| --  B  |\
+| Y| - - |\
+| --     |\
+| BT |   |\
 |    |   |\
-|  B     |\
 |  --    |\
-|     T  |\
+|        |\
 |--------|\n\
 	", 100);
 }
@@ -146,14 +146,18 @@ void ShowBoard(char arr[ROW][COL], int row, int col)
 void Go(char arr[ROW][COL], int row, int col)
 {
 	int ret = 0;
+	int count = 0;
 	while (!ret)
 	{
 		ShowBoard(arr, ROW, COL);
-		MoveBoard(arr, ROW, COL);
+		if (MoveBoard(arr, ROW, COL))
+		{
+			count++;
+		}
 		JudgeT(arr, ROW, COL);
-
 		ret = IsWin(arr, ROW, COL);
 	}
+	cout << "step"<<count << endl;
 	cout << "win!" << endl;
 }
 int IsWin(char arr[ROW][COL], int row, int col)
@@ -180,7 +184,7 @@ void test()
 	FindT(arr, ROW, COL);
 	Go(arr,ROW,COL);
 }
-void MoveBoard(char arr[ROW][COL], int row,int col)
+int MoveBoard(char arr[ROW][COL], int row,int col)
 {
 	int enter = 0;
 	cout << "please move Y:>";
@@ -190,7 +194,7 @@ void MoveBoard(char arr[ROW][COL], int row,int col)
 	{
 		if (arr[(yp.x)][(yp.y) - 1] == '|' || arr[(yp.x)][(yp.y) - 1] == '-' 
 			|| (arr[(yp.x)][yp.y - 1] == 'B' &&
-				(arr[(yp.x)][(yp.y) - 2] == '|' || arr[(yp.x)][(yp.y) - 2] == '-')))
+				(arr[(yp.x)][(yp.y) - 2] == '|' || arr[(yp.x)][(yp.y) - 2] == '-' || arr[(yp.x)][(yp.y) - 2] == 'B')))
 		{
 			flag = 0;
 		}
@@ -212,7 +216,7 @@ void MoveBoard(char arr[ROW][COL], int row,int col)
 	{
 		if (arr[(yp.x)][(yp.y) + 1] == '|' || arr[(yp.x)][(yp.y) + 1] == '-'
 			|| (arr[(yp.x)][yp.y + 1] == 'B' &&
-				(arr[(yp.x)][(yp.y) + 2] == '|' || arr[(yp.x)][(yp.y) + 2] == '-')))
+				(arr[(yp.x)][(yp.y) + 2] == '|' || arr[(yp.x)][(yp.y) + 2] == '-' || arr[(yp.x)][(yp.y) + 2] == 'B')))
 		{
 			flag = 0;
 		}
@@ -235,7 +239,7 @@ void MoveBoard(char arr[ROW][COL], int row,int col)
 
 		if (arr[(yp.x)+1][(yp.y) ] == '|' || arr[(yp.x)+1][(yp.y) ] == '-' 
 			|| (arr[(yp.x)+1][yp.y ] == 'B' &&
-				(arr[(yp.x)+2][(yp.y) ] == '|' || arr[(yp.x)+2][(yp.y) ] == '-' )))
+				(arr[(yp.x)+2][(yp.y) ] == '|' || arr[(yp.x)+2][(yp.y) ] == '-' || arr[(yp.x) + 2][(yp.y)] == 'B')))
 		{
 			flag = 0;
 		}
@@ -256,7 +260,7 @@ void MoveBoard(char arr[ROW][COL], int row,int col)
 
 		if (arr[(yp.x) - 1][(yp.y)] == '|' || arr[(yp.x) - 1][(yp.y)] == '-' 
 			|| (arr[(yp.x) - 1][yp.y] == 'B' &&
-				(arr[(yp.x) - 2][(yp.y)] == '|' || arr[(yp.x) - 2][(yp.y)] == '-' )))
+				(arr[(yp.x) - 2][(yp.y)] == '|' || arr[(yp.x) - 2][(yp.y)] == '-' || arr[(yp.x) - 2][(yp.y)] == 'B')))
 		{
 			flag = 0;
 		}
@@ -277,6 +281,7 @@ void MoveBoard(char arr[ROW][COL], int row,int col)
 		flag = 0;
 	}
 
+
 	if (flag)
 	{
 		cout << "you move successfully" << endl;
@@ -286,6 +291,7 @@ void MoveBoard(char arr[ROW][COL], int row,int col)
 	{
 		cout << "invalid please enter again:>"<< endl;
 	}
+	return flag;
 }
 void JudgeT(char arr[ROW][COL], int row, int col)
 {
