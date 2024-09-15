@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\gitcode\\6.C advance\\7address\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9B530-CDEE-4E5C-849B-9A5BBF7C63F1}|7address\\7address.vcxproj|E:\\gitcode\\6.C advance\\7address\\7address\\contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9B530-CDEE-4E5C-849B-9A5BBF7C63F1}|7address\\7address.vcxproj|solutionrelative:7address\\contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9B530-CDEE-4E5C-849B-9A5BBF7C63F1}|7address\\7address.vcxproj|E:\\gitcode\\6.C advance\\7address\\7address\\contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9B530-CDEE-4E5C-849B-9A5BBF7C63F1}|7address\\7address.vcxproj|solutionrelative:7address\\contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC9B530-CDEE-4E5C-849B-9A5BBF7C63F1}|7address\\7address.vcxproj|E:\\gitcode\\6.C advance\\7address\\7address\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBC9B530-CDEE-4E5C-849B-9A5BBF7C63F1}|7address\\7address.vcxproj|solutionrelative:7address\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\gitcode\\6.C advance\\7address\\7address\\test.c",
+              "RelativeDocumentMoniker": "7address\\test.c",
+              "ToolTip": "E:\\gitcode\\6.C advance\\7address\\7address\\test.c",
+              "RelativeToolTip": "7address\\test.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T05:19:57.177Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contact.h",
+              "DocumentMoniker": "E:\\gitcode\\6.C advance\\7address\\7address\\contact.h",
+              "RelativeDocumentMoniker": "7address\\contact.h",
+              "ToolTip": "E:\\gitcode\\6.C advance\\7address\\7address\\contact.h",
+              "RelativeToolTip": "7address\\contact.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T05:20:00.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.c",
+              "DocumentMoniker": "E:\\gitcode\\6.C advance\\7address\\7address\\contact.c",
+              "RelativeDocumentMoniker": "7address\\contact.c",
+              "ToolTip": "E:\\gitcode\\6.C advance\\7address\\7address\\contact.c",
+              "RelativeToolTip": "7address\\contact.c",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAN4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T05:19:54.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  contact.c
+E:\gitcode\6.C advance\7address\7address\contact.c(41,10): warning C4047: 'function': 'const char *' differs in levels of indirection from 'FILE *(__cdecl *)(const char *,const char *)'
+E:\gitcode\6.C advance\7address\7address\contact.c(41,10): warning C4024: 'perror': different types for formal and actual parameter 1
+E:\gitcode\6.C advance\7address\7address\contact.c(237,10): warning C4047: 'function': 'const char *' differs in levels of indirection from 'FILE *(__cdecl *)(const char *,const char *)'
+E:\gitcode\6.C advance\7address\7address\contact.c(237,10): warning C4024: 'perror': different types for formal and actual parameter 1
+  7address.vcxproj -> E:\gitcode\6.C advance\7address\x64\Debug\7address.exe
