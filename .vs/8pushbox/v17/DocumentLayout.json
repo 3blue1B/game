@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\gitcode\\3.cpp\\8pushbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{720B41D2-BEAE-4D11-B7B4-BE5CB7F5693A}|8pushbox\\8pushbox.vcxproj|E:\\gitcode\\3.cpp\\8pushbox\\8pushbox\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{720B41D2-BEAE-4D11-B7B4-BE5CB7F5693A}|8pushbox\\8pushbox.vcxproj|solutionrelative:8pushbox\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "E:\\gitcode\\3.cpp\\8pushbox\\8pushbox\\test.cpp",
+              "RelativeDocumentMoniker": "8pushbox\\test.cpp",
+              "ToolTip": "E:\\gitcode\\3.cpp\\8pushbox\\8pushbox\\test.cpp",
+              "RelativeToolTip": "8pushbox\\test.cpp",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T01:46:02.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
