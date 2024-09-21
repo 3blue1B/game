@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\gitcode\\7.project\\1gomoku\\gomoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8C318E-BC7A-4402-B6B0-BF8AA562BBA7}|gomoku\\gomoku.vcxproj|E:\\gitcode\\7.project\\1gomoku\\gomoku\\gomoku\\gomoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD8C318E-BC7A-4402-B6B0-BF8AA562BBA7}|gomoku\\gomoku.vcxproj|solutionrelative:gomoku\\gomoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "E:\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ToolTip": "E:\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ViewState": "AgIAAFkHAAAAAAAAAAAiwF8HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-21T12:59:55.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gomoku.cpp",
+              "DocumentMoniker": "E:\\gitcode\\7.project\\1gomoku\\gomoku\\gomoku\\gomoku.cpp",
+              "RelativeDocumentMoniker": "gomoku\\gomoku.cpp",
+              "ToolTip": "E:\\gitcode\\7.project\\1gomoku\\gomoku\\gomoku\\gomoku.cpp*",
+              "RelativeToolTip": "gomoku\\gomoku.cpp*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T12:33:43.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
