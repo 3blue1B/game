@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\gitcode\7.project\2tetrix\tetrix\tetrix\main.cpp(57,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\gitcode\7.project\2tetrix\tetrix\tetrix\main.cpp(57,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\gitcode\7.project\2tetrix\tetrix\tetrix\main.cpp(178,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\gitcode\7.project\2tetrix\tetrix\tetrix\main.cpp(178,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  tetrix.vcxproj -> E:\gitcode\7.project\2tetrix\tetrix\x64\Debug\tetrix.exe
