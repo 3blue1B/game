@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\gitcode\\7.project\\1gomoku\\gomoku\\",
+  "WorkspaceRootPath": "E:\\gitcode\\7.project\\1gomoku\\game\\gomoku\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD8C318E-BC7A-4402-B6B0-BF8AA562BBA7}|gomoku\\gomoku.vcxproj|E:\\gitcode\\7.project\\1gomoku\\gomoku\\gomoku\\gomoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BD8C318E-BC7A-4402-B6B0-BF8AA562BBA7}|gomoku\\gomoku.vcxproj|E:\\gitcode\\7.project\\1gomoku\\game\\gomoku\\gomoku\\gomoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD8C318E-BC7A-4402-B6B0-BF8AA562BBA7}|gomoku\\gomoku.vcxproj|solutionrelative:gomoku\\gomoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "gomoku.cpp",
-              "DocumentMoniker": "E:\\gitcode\\7.project\\1gomoku\\gomoku\\gomoku\\gomoku.cpp",
+              "DocumentMoniker": "E:\\gitcode\\7.project\\1gomoku\\game\\gomoku\\gomoku\\gomoku.cpp",
               "RelativeDocumentMoniker": "gomoku\\gomoku.cpp",
-              "ToolTip": "E:\\gitcode\\7.project\\1gomoku\\gomoku\\gomoku\\gomoku.cpp",
+              "ToolTip": "E:\\gitcode\\7.project\\1gomoku\\game\\gomoku\\gomoku\\gomoku.cpp",
               "RelativeToolTip": "gomoku\\gomoku.cpp",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAQwF4AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-21T12:33:43.787Z",
               "EditorCaption": ""

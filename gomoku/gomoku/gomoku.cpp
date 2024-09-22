@@ -4,9 +4,10 @@
 #include <utility>
 #include <map>
 #include <unordered_map>
+#include <iomanip>
 using namespace std;
-#define ROW 10
-#define COL 10
+#define ROW 19
+#define COL 19
 void Initial(vector<vector<char>>& board, int row, int col);
 void View(vector<vector<char>> board, int row, int col);
 int IsWin(vector<vector<char>> board, int row, int col);
@@ -21,17 +22,20 @@ void Initial(vector<vector<char>>& board, int row, int col)
 
 void View(vector<vector<char>> board, int row, int col)
 {
+	cout << " ";
 	for (int i = 0; i < col; i++)
 	{
-		cout<<"  " << i;
+		cout<< "  " ;
+		cout << setw(2) << setfill('0') << i;
 	}
+
 	cout << endl;
 	for (int i = 0; i < row; i++)
 	{
-		cout << i;
+		cout << setw(2) << setfill('0') << i;
 		for (int j = 0; j < col; j++)
 		{
-			cout << "|" << board[i][j] << "|";
+			cout << "|" << " " << board[i][j] << "|";
 		}
 		cout << endl;
 	}
@@ -90,7 +94,7 @@ LdhLife:
 void YouMove(vector<vector<char>>& board, int row, int col)
 {
 YouLife:
-	cout << "You please enter your coordinate using '*':>";
+	cout << "»ÆÐ¡ºÚ please enter your coordinate using '*':>";
 	int x = 0;
 	int y = 0;
 	int flag = 1;

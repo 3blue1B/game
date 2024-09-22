@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\gitcode\\3.cpp\\8pushbox\\",
+  "WorkspaceRootPath": "E:\\gitcode\\7.project\\1gomoku\\game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{720B41D2-BEAE-4D11-B7B4-BE5CB7F5693A}|8pushbox\\8pushbox.vcxproj|E:\\gitcode\\3.cpp\\8pushbox\\8pushbox\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{720B41D2-BEAE-4D11-B7B4-BE5CB7F5693A}|8pushbox\\8pushbox.vcxproj|E:\\gitcode\\7.project\\1gomoku\\game\\8pushbox\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{720B41D2-BEAE-4D11-B7B4-BE5CB7F5693A}|8pushbox\\8pushbox.vcxproj|solutionrelative:8pushbox\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cpp",
-              "DocumentMoniker": "E:\\gitcode\\3.cpp\\8pushbox\\8pushbox\\test.cpp",
+              "DocumentMoniker": "E:\\gitcode\\7.project\\1gomoku\\game\\8pushbox\\test.cpp",
               "RelativeDocumentMoniker": "8pushbox\\test.cpp",
-              "ToolTip": "E:\\gitcode\\3.cpp\\8pushbox\\8pushbox\\test.cpp",
+              "ToolTip": "E:\\gitcode\\7.project\\1gomoku\\game\\8pushbox\\test.cpp",
               "RelativeToolTip": "8pushbox\\test.cpp",
               "ViewState": "AgIAANsAAAAAAAAAAAAAAJ0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
