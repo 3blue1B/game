@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\gitcode\\3.cpp\\14review\\14review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB58DC0B-678E-4594-BD80-DED290FC42A0}|14review\\14review.vcxproj|E:\\gitcode\\3.cpp\\14review\\14review\\14review\\contact.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB58DC0B-678E-4594-BD80-DED290FC42A0}|14review\\14review.vcxproj|solutionrelative:14review\\contact.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.cpp",
+              "DocumentMoniker": "E:\\gitcode\\3.cpp\\14review\\14review\\14review\\contact.cpp",
+              "RelativeDocumentMoniker": "14review\\contact.cpp",
+              "ToolTip": "E:\\gitcode\\3.cpp\\14review\\14review\\14review\\contact.cpp",
+              "RelativeToolTip": "14review\\contact.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T01:47:11.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

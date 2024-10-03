@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\gitcode\\3.cpp\\14review\\14review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB58DC0B-678E-4594-BD80-DED290FC42A0}|14review\\14review.vcxproj|E:\\gitcode\\3.cpp\\14review\\14review\\14review\\contact.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB58DC0B-678E-4594-BD80-DED290FC42A0}|14review\\14review.vcxproj|solutionrelative:14review\\contact.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xstring",
+              "DocumentMoniker": "E:\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ToolTip": "E:\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\download\\download in edge\\msvs\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ViewState": "AgIAAPcBAAAAAAAAAAAUwAQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-03T08:08:59.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.cpp",
+              "DocumentMoniker": "E:\\gitcode\\3.cpp\\14review\\14review\\14review\\contact.cpp",
+              "RelativeDocumentMoniker": "14review\\contact.cpp",
+              "ToolTip": "E:\\gitcode\\3.cpp\\14review\\14review\\14review\\contact.cpp",
+              "RelativeToolTip": "14review\\contact.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T01:47:11.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
